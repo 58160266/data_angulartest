@@ -1,12 +1,15 @@
 {
-  "emp": [
+  "posts": [
     {
       "id": 1,
-      "title": "สมศรี"
+      "title": "hello"
     },
-    {
-      "id": 2,
-      "title": "สมศรี"
+     {
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
