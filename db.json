@@ -1,11 +1,17 @@
 {
-  "posts": [
+  "emp": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "title": "สมศรี"
+    },
+    {
+      "id": 2,
+      "title": "ยายเงาะ"
+    },
+    {
+      "id": 3,
+      "title": "ยายหมาก"
+    },
+    
+  ]
 }
